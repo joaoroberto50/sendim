@@ -5,8 +5,8 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 
-fromaddr = "joaoroberto.jr35@gmail.com"
-toaddr = "joaorobertomendez@hotmail.com"
+fromaddr = "origem@email.com"
+toaddr = "destino@email.com"
 
 msg = MIMEMultipart()
 
